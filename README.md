@@ -3,8 +3,8 @@ All Belgium-Minecraft-Family Related Documents, Code, Websites, Minecraft Code, 
 
 Each topic will be grouped
 
--Redstone
--ComputerCraft
--Forge
--Documents
--Design
+- Redstone
+- ComputerCraft
+- Forge
+- Documents
+- Design
