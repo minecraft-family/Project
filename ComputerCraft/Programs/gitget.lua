@@ -4,7 +4,7 @@ Developed by apemanzilla.
  
 This requires ElvishJerricco's JSON parsing API.
 Direct link: http://pastebin.com/raw.php?i=4nRg9CHU
-Documentation: http://www.computercraft.info/forums2/index.php?/topic/17387-gitget-version-2-release/
+Documentation:  http://www.computercraft.info/forums2/index.php?/topic/17387-gitget-version-2-release/
 ]]--
 
 -- Edit these variables to use preset mode.
@@ -134,3 +134,5 @@ if data.message and data.message == "Not found" then error("Invalid repository",
 	end
 end
 preset.done()
+
+-- test
