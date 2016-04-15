@@ -1,8 +1,8 @@
 # Minecraft-Family
-The Kids Minecraft Community
+### The Kids Minecraft Community
 Welcome to the Minecraft-Family project repo.
 This is the meta-repo for all things Minecraft-Family it also contains our issues.
-If you find an issue let us know by creating an issue ticket. 
+If you find an issue let us know by creating an issue ticket.
 
 Table of Contents:
 
