@@ -1,3 +1,5 @@
+-- W3bwizart --
+
 monitor = peripheral.wrap("top")
 commands.gamerule("commandBlockOutput", false)
 x,y,z = commands.getBlockPosition()
