@@ -9,3 +9,12 @@ Table of Contents:
 - About: What is the idea behind this
 - Roadmap: The core project's roadmap
 - Code of Conduct: Be excellent to each other - our Code of Conduct that the team expects all contributors to the project, mailing lists, and communities to adhere to.
+
+# Blocks
+All Belgium-Minecraft-Family Related Documents, Code, Minecraft Code, Java, Lua, ...
+
+Each topic will be grouped
+
+- Redstone
+- ComputerCraft
+- Forge
